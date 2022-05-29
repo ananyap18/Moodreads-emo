@@ -1,3 +1,4 @@
+# MOODREADS _EMO
 <p align="center">
 <img src="https://github.com/ananyap18/Moodreads-emo/blob/main/Readme-Assets/Logo-Readme.png" alt="drawing" width="400"/>
 </p>
@@ -27,5 +28,3 @@ Please note to sit in a very well lit room for better performance.
 
 # Drawbacks
 Since the dataset used is sparse, the accuracy of the model is about 75%. In future additions, we can fetch more data or use azure cognitive services.
-
-# Moodreads-emo
