@@ -27,7 +27,7 @@ It uses different web technologies to build the application along with a custom 
 Please note to sit in a very well lit room for better performance.
 
 # Drawbacks
-Since the dataset used is sparse, the accuracy of the model is about 75%. In future additions, we can fetch more data or use azure cognitive services.
+Since the dataset used is sparse, the accuracy of the model is about 75%. In future additions, we can fetch more data or use azure cognitive services to imporve performance.
 
 # Landing Page
 <p align="center">
