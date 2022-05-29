@@ -29,9 +29,22 @@ Please note to sit in a very well lit room for better performance.
 # Drawbacks
 Since the dataset used is sparse, the accuracy of the model is about 75%. In future additions, we can fetch more data or use azure cognitive services.
 
-# SAMPLE
 # Landing Page
 <p align="center">
 <img src="https://github.com/ananyap18/Moodreads-emo/blob/main/Readme-Assets/Landing.png" alt="drawing" width="400"/>
 </p> </br>
 
+# About Page
+<p align="center">
+<img src="https://github.com/ananyap18/Moodreads-emo/blob/main/Readme-Assets/About.png" alt="drawing" width="400"/>
+</p> </br>
+
+# Working
+<p align="center">
+<img src="https://github.com/ananyap18/Moodreads-emo/blob/main/Readme-Assets/Screen_Capture_2.png" alt="drawing" width="400"/>
+</p> </br>
+
+# Output
+<p align="center">
+<img src="https://github.com/ananyap18/Moodreads-emo/blob/main/Readme-Assets/Screen_Capture_Mood_2.png" alt="drawing" width="400"/>
+</p> </br>
