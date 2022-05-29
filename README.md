@@ -31,5 +31,5 @@ Since the dataset used is sparse, the accuracy of the model is about 75%. In fut
 
 # SAMPLE
 <p align="center">
-Landing Page
+# Landing Page
 <img src="https://github.com/ananyap18/Moodreads-emo/blob/main/Readme-Assets/Landing.png" alt="drawing" width="400"/>
