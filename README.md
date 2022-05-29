@@ -24,10 +24,10 @@ It uses different web technologies to build the application along with a custom 
 2. Open the terminal and go to backend folder
 3. Give the command python manage.py runserver
 4. Voila, you can access the application
-Please note to sit in a very well lit room for better performance.
+5. Please note to sit in a very well lit room for better performance.
 
 # Drawbacks
-Since the dataset used is sparse, the accuracy of the model is about 75%. In future additions, we can fetch more data or use azure cognitive services to imporve performance.
+Since the dataset used is sparse, the accuracy of the model is about 75%. In future additions, we can fetch more data or use azure cognitive services to improve the performance.
 
 # Landing Page
 <p align="center">
