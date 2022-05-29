@@ -1,5 +1,5 @@
 <p align="center">
-<img src="C:\Users\Ananya Prasad\Moodreads\Readme-Assets\Logo-Readme.png" alt="drawing" width="400"/>
+<img src="https://github.com/ananyap18/Moodreads-emo/blob/main/Readme-Assets/Logo-Readme.png" alt="drawing" width="400"/>
 </p>
 </br>
 Ever had to spend months just to get the right book? Book that goes with your mood, something to cheer you up when you are not feeling it, something to go with the happy vibes around or just something to calm you down? We got you covered with Moodreads - your perfect emotional companion to help you get the book you want.
