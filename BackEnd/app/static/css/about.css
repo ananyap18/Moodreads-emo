@@ -1,0 +1,13 @@
+.main{
+    background-color: #faf8f8;
+    height: 75% !important;
+    border-radius:29px;
+}
+.about{
+    border-radius:10px;
+    color: #e86ef1 !important;
+    font-size:20px;
+    width:90%;
+    height:95px;
+}
+

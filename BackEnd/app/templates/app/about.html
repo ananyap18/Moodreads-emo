@@ -1,0 +1,35 @@
+{% extends './base.html' %}
+{% load static %}
+{% block css %}
+  <link rel="stylesheet" type="text/css" href="{% static 'css/styles.css' %}">
+  <link rel="stylesheet" type="text/css" href="{% static 'css/homepage.css' %}">
+  <link rel="stylesheet" type="text/css" href="{% static 'css/about.css' %}">
+{% endblock %}
+{% block body %} 
+<div class="main mt-5 mb-4 mx-auto w-75 h-50 d-flex flex-column  align-items-start justify-content-around">
+  <button type="span" class="btn btn-colorg btn-lg ml-4 mb-2 mt-4 rounded"><span class="font-weight-bold">About the Project</span></button>
+  <div class="about ml-5 mt-3 ">
+    <p> Ever had to spend minutes just to get the right book to get you pumped up? Book that 
+      goes with your mood, something to cheer you up when you are not feeling it, something to go with the 
+      happy vibes around or just something to calm you down? We got you covered with Moodreads - your emotional
+      partner to help you get the book of your choice.</p>
+  </div>         
+  <br>
+  <button type="span" class="btn btn-colorg btn-lg  ml-4 mb-3 mt-3 rounded"><span class="font-weight-bold">Technology Used</span></button>
+  <div class="about mt-3 ml-5">
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="drawing"/></a>
+    <a href="https://www.tensorflow.org/" target="_blank">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="drawing"/></a>
+    <a href="https://keras.io/" target="_blank">
+      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="drawing"/></a>
+    <a href="https://opencv.org/" target="_blank">
+      <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="drawing"/></a> 
+    <a href="https://www.djangoproject.com/" target="_blank">  
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="drawing"/></a>
+    <a href="https://getbootstrap.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="drawing"/></a>
+  </div>
+</div>
+{% endblock %}
+  
